@@ -16,4 +16,4 @@ function TodoListTemplate({form,children}){
     );
 }
 
-export default TodoListTemplate`
+export default TodoListTemplate
